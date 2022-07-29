@@ -1,3 +1,3 @@
 # Jobify
 
-MERN web app to track job searches.
+MERN web app to track your job applications.
